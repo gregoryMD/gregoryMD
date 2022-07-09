@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greg. Welcome to my GitHub. </h1>
-<h3 align="center">I'm a software engineer based in Philadelphia, PA. Experienced in frontend, diving into fullstack.</h3>
-
-- 🌱 I’m currently learning **Node.js , Gatsby**
+<h3 align="center">I'm a software engineer based in Philadelphia, PA.</h3>
 
 - 💬 Ask me about **React & Redux, JavaScript**
 
