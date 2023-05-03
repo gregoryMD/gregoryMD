@@ -1,11 +1,15 @@
 <h1 align="center">Hello 👋, I'm Greg</h1>
 <h3 align="center">A software engineer from Philadelphia, PA</h3>
 
+
+
 - 🔭 I’m currently working on [Full Stack Open](https://fullstackopen.com/en/)
 
 - 💬 Ask me about **MERN Stack Web Development**
 
 - 📫 How to reach me **gdiehl265@gmail.com**
+
+- Note: This is a personal Github primarily for hobby projects that I use on an add-needed basis. My work product as a professional developer is not something I usually have access to so it is not represented here. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
